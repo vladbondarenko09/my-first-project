@@ -1,2 +1,3 @@
 # my-first-project
-My first site
+
+This is my first project
